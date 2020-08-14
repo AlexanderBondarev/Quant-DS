@@ -1,0 +1,9 @@
+E(B3LYP)= -1985.92119500
+Zero-point correction= 0.332454
+Thermal correction to Energy= 0.364313
+Thermal correction to Enthalpy= 0.365257
+Thermal correction to Gibbs Free Energy= 0.256758
+Sum of electronic and zero-point Energies= -1985.588741
+Sum of electronic and thermal Energies= -1985.556882
+Sum of electronic and thermal Enthalpies= -1985.555938
+Sum of electronic and thermal Free Energies= -1985.664437
