@@ -4,7 +4,7 @@ echo "<html>" > index.html
 echo "<head><meta charset=\"utf-8\"/></head>" >> index.html
 echo "<body>" >> index.html
 echo "<h3><a href="../index.html">Quantm-chemical calculations of diazonium salts</a></h3>" >> index.html
-echo "<h4>Transition state of the de-diazonation reaction of diazonium salts:</h4>" >> index.html
+echo "<h4>Diazonium cations ant other:</h4>" >> index.html
 
 echo "<ul>" >> index.html
 list=`find . -maxdepth 1 -mindepth 1 -type d -printf "%f\n" | sort`
@@ -22,7 +22,7 @@ list=`ls *.out`
 for i in $list
 do
   name=`basename $i .out`
-  echo " <li>$name <a href=\"$name.out\">out</a> <a href=\"$name.xyz\">xyz</a> <a href=\"$name.prop\">property</a> </li>" >> index.html
+  echo " <li>$name <a href=\"$name.out\">out</a> <a href=\"$name.xyz\">xyz</a> <a href=\"$name.dat\">dat</a> </li>" >> index.html
 done
 echo "</ul>" >> index.html
 

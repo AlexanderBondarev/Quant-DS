@@ -1,0 +1,13 @@
+Sum of electronic and zero-point Energies=           -280.404170
+Sum of electronic and thermal Energies=              -280.400997
+Sum of electronic and thermal Enthalpies=            -280.400053
+Sum of electronic and thermal Free Energies=         -280.429676
+
+Wiberg:
+  0.0000   1.3552   1.3552   1.3554 
+  1.3552   0.0000   0.2394   0.2394 
+  1.3552   0.2394   0.0000   0.2394 
+  1.3554   0.2394   0.2394   0.0000 
+
+Freq:
+  697.1497   697.9144   833.1466  1071.3470  1389.8384  1390.4626 

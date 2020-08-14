@@ -4,6 +4,7 @@ echo "<html>" > index.html
 echo "<head><meta charset=\"utf-8\"/></head>" >> index.html
 echo "<body>" >> index.html
 echo "<h3>Quantm-chemical calculations of diazonium salts</h3>" >> index.html
+echo "<h4><a href=\"DC/index.html\">Diazonium cations ant other</a></h4>" >> index.html
 echo "<h4><a href=\"DS/index.html\">Structures of diazonium salts</a></h4>" >> index.html
 echo "<h4><a href=\"TS/index.html\">Transition state of the de-diazonation reaction of diazonium salts</a></h4>" >> index.html
 echo "<h4><a href=\"DS-Cluster/index.html\">Structures of cluster DS in LC-MS experiment</a></h4>" >> index.html
