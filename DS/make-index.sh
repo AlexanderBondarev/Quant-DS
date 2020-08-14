@@ -22,7 +22,7 @@ list=`ls *.out`
 for i in $list
 do
   name=`basename $i .out`
-  echo " <li>$name <a href=\"$name.out\">out</a> <a href=\"$name.xyz\">xyz</a> <a href=\"$name.prop\">property</a> </li>" >> index.html
+  echo " <li>$name <a href=\"$name.out\">out</a> <a href=\"$name.xyz\">xyz</a> <a href=\"$name.dat\">dat</a> </li>" >> index.html
 done
 echo "</ul>" >> index.html
 
